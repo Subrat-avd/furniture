@@ -1,3 +1,7 @@
 chair
 table
 wood
+sofa
+dining
+bed
+dressing aina
