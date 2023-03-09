@@ -5,3 +5,5 @@ sofa
 dining
 bed
 dressing aina
+palanka
+alana
